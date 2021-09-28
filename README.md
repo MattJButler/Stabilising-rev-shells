@@ -1,8 +1,8 @@
 # Stabilising-rev-shells
 
-'''
+''
 python -c "import pty; pty.spawn('/bin/bash')"      //run on victim's machine
-'''
+''
 
 
 CTRL + Z                                            //switches over to your machine
